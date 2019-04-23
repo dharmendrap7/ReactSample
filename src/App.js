@@ -6,7 +6,7 @@ import ReactDom from 'react-dom';
 
 class App extends Component {
   btnclick(){
-    alert("button is clicked...");
+    alert("button clicked...");
   }
   render() {
     var myStyle={fontsize:100,color:'#ff0000'}
