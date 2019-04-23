@@ -2,18 +2,10 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
-=======
-  "homepage":"https://github.com/dharmendrap7/ReactSample.git",
-  "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
->>>>>>> c88c3ebf10f7d3f07b9d7b7c154f515f3d588ec7
   },
   "scripts": {
     "start": "react-scripts start",
@@ -24,7 +16,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-<<<<<<< HEAD
   "browserslist": {
     "production": [
       ">0.2%",
@@ -38,12 +29,3 @@
     ]
   }
 }
-=======
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
-}
->>>>>>> c88c3ebf10f7d3f07b9d7b7c154f515f3d588ec7
