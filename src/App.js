@@ -1,4 +1,7 @@
+<<<<<<< HEAD
   
+=======
+>>>>>>> c88c3ebf10f7d3f07b9d7b7c154f515f3d588ec7
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
@@ -63,4 +66,8 @@ class Content extends Component
   }  
 }
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> c88c3ebf10f7d3f07b9d7b7c154f515f3d588ec7
